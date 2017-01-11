@@ -1,0 +1,40 @@
+{
+  "name": "portfolio-server",
+  "version": "0.0.1",
+  "description": "Server for Chris B. Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumArchive/portfolio-server.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Christopher Bruner <chrbruner9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantumArchive/portfolio-server/issues"
+  },
+  "homepage": "https://github.com/QuantumArchive/portfolio-server#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.0",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "debug": "^2.6.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.2.1",
+    "mongoose": "^4.7.6",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "eslint": "^3.13.1",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
