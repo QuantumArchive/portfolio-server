@@ -1,0 +1,56 @@
+[
+  {
+    "author":["Christopher Bruner"],
+    "title":"Cookie Stand",
+    "category":"Web Page Mockup",
+    "link":"https://quantumarchive.github.io/cookie-stand/",
+    "publishedOn":"2016-08-26",
+    "image":"images/salmon-cookies-crop.png",
+    "body":"<p>This is a business website mockup for an imaginary cookie company, Pat's Salmon Cookies which simulates tracking sales across each store.</p><p>Working directories include the merchandise section, home and sales. The sales page allows you to update the table with new information and simulates new sales per hour and calculates the total number of employees needed for a given hour to service the number of customers.</p>"
+  },
+  {
+    "author":["Christopher Bruner"],
+    "title":"Bus Mall",
+    "category":"Web Page Mockup",
+    "link":"https://quantumarchive.github.io/bus-mall/",
+    "publishedOn":"2016-09-02",
+    "image":"images/bus-mall-crop.png",
+    "body":"<p>This project is an interactive survey that polls a users preferences over a given product and reports a given items relative popularity.</p><p>After 25 selections, the stats tab will appear to show you how many times an item was clicked, how many times it appeared, and the percentage of times it was clicked as a function of the frequency that item showed. The stats persist past page refreshes so you can see previous entries.</p>"
+  },
+  {
+    "author":["Steven Jackson", "Christopher Bruner", "Tom Timmel"],
+    "title":"SCuTtle Your Memory",
+    "category":"Games",
+    "link":"https://scuttling.github.io/memory-card/index.html",
+    "publishedOn":"2016-09-09",
+    "image":"images/scuttle-your-memory.png",
+    "body":"<p>This is a browser game which has you matching different cards. Choose your difficulty, your card set and give it a try!</p><p>Your score is tallied based on how many selections were made to finish the game. Your score is tracked through browser sessions and the leader board on the about page will show your current rankings for the top 5 players on all 5 difficulty settings.</p>"
+  },
+  {
+    "author":["Christopher Bruner", "David Chase", "Tim Combs"],
+    "title":"gitTherePDX",
+    "category":"Transportation",
+    "link":"https://gittherepdx.herokuapp.com/",
+    "publishedOn":"2016-10-13",
+    "image":"images/gittherepdx-small.png",
+    "body":"<p>This web app was developed to determine what form of alternative transportation was closest to your current geolocation within Portland.</p><p>You simply input your currently location, select the alternative form of transportation you're interested in, and then the canvas will give you a rough idea of how close they are to you in terms of time. The ap will then allow you to redirect to that transport website where you can finish your request.</p>"
+  },
+  {
+    "author":["Christopher Bruner", "Niilo Smeds", "Michelle Srikhundonr", "Tom Timmel"],
+    "title":"Cache Money DB",
+    "category":"Stocks",
+    "link":"https://cachemoneydb.herokuapp.com/",
+    "publishedOn":"2016-11-18",
+    "image":"images/cachemoney-crop.png",
+    "body":"<p>Cache Money DB is a fantasy stock app you can use to learn about buying/selling stocks in order to gauge your investment strategies.</p><p>You will first need to sign up for a new account. This will create a portfolio for you with a starting fantasy cash value of $100,000. You can then proceed to research stocks and buy and sell. As this is a fantasy stock app, you can buy and sell during off market hours to adjust your portfolio. The account net value updates every thirty using the Yahoo API meaning the stock quotes wil be 15 minute delayed, but this will give you an easy platform to test out your strategies. Do your best to see if you can get on the leaderboard!</p>"
+  },
+  {
+    "author":["Caitlin Araldi", "Christopher Bruner", "Nathan Hugon", "Michelle Srikhundonr", "Remy"],
+    "title":"PawsIO",
+    "category":"Internet of Things",
+    "link":"https://pawsio.herokuapp.com/",
+    "publishedOn":"2017-01-06",
+    "image":"images/pawsio-crop.png",
+    "body":"<p>PawsIO is a web app that utilizes an IOT device to track your pets health and exercise requirements.</p><p>This project utilizes an Intel Gallileo coupled with a Seeed Grove Starter Kit to registered to one pet on your account to actively track the distance they travel, their ambient temperature, and intensity of the noise around them. You must first register to a sight and then register your device to your pet to begin tracking their data. You can then use the website to gauge and adjust their exercise routines as needed.</p>"
+  }
+]
