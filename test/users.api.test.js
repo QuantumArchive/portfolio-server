@@ -48,7 +48,7 @@ describe('tests users api end point', () => {
             .send(send)
             .then(res => {
                 const {username, token} = res.body;
-                assert.equal(username, send.username)
+                assert.equal(username, send.username);
                 assert.isOk(token);
                 done();
             })
